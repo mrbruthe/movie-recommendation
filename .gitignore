@@ -1,0 +1,13 @@
+@"
+.venv/
+data/
+.ipynb_checkpoints/
+__pycache__/
+
+optimization.ipynb
+submission.csv
+
+*.pkl
+*.npy
+artifacts/svd_tuning/svd_tuning_results.csv
+"@ | Set-Content .gitignoreartifacts/model_metrics.json
