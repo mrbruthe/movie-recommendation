@@ -11,3 +11,4 @@ submission.csv
 *.npy
 artifacts/svd_tuning/svd_tuning_results.csv
 "@ | Set-Content .gitignoreartifacts/model_metrics.json
+artifacts/model_metrics.json
